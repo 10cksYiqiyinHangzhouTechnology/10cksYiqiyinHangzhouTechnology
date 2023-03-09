@@ -2,7 +2,7 @@
 
 
 
-### CVE obtained
+### CVE
 
 CVE-2023-1010
 
